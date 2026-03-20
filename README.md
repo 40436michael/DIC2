@@ -1,5 +1,9 @@
 # Value Iteration Visualizer 🤖
 
+## 影片
+https://github.com/user-attachments/assets/6c66c5a6-8b03-4d60-bfd7-ac8157a98fb2
+
+
 一個互動式的 5x5 網格世界 (Grid World) 應用程式，專門用來視覺化強化學習中的 **價值迭代演算法 (Value Iteration Algorithm)**。
 
 本專案使用 Python (Flask) 處理演算法邏輯，並透過 HTML / CSS / JS 打造一個流暢、具現代感 (Glassmorphism) 的互動介面。
