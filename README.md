@@ -1,9 +1,13 @@
-# Value Iteration Visualizer 🤖
+# Value Iteration Visualizer 
 
 ## 影片
 
 
 https://github.com/user-attachments/assets/bbcf68f1-bf36-47ab-84b9-54af776df86c
+
+
+
+https://github.com/user-attachments/assets/25226794-ec49-4530-9b13-40ca4cad2bfd
 
 
 
