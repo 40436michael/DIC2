@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/bbcf68f1-bf36-47ab-84b9-54af776df86c
 https://github.com/user-attachments/assets/25226794-ec49-4530-9b13-40ca4cad2bfd
 
 
-
+## prompt 紀錄放在 prompt history
 
 一個互動式的 5x5 網格世界 (Grid World) 應用程式，專門用來視覺化強化學習中的 **價值迭代演算法 (Value Iteration Algorithm)**。
 
